@@ -1,1 +1,1 @@
-This is my first website developed by my # Developer-CV
+This is my first website developed by me # Developer-CV
